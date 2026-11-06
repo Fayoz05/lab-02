@@ -2,7 +2,7 @@
 
 **Course:** Data Exploration and Extraction, MSc Data Science  
 **Marks:** 100 %  
-**Python:** 3.12
+**Python:** 3.12.2
 
 ## Your goal
 
