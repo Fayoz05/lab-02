@@ -1,0 +1,68 @@
+{
+  "assignment": "lab-02",
+  "total_points": 100,
+  "criteria": [
+    {
+      "id": "C1",
+      "title": "Check and normalize records",
+      "points": 15,
+      "category": "implementation",
+      "tasks": [
+        "T1"
+      ],
+      "evidence": "Correct immutable records and all input checks, including amount limits, currency, and UTC times."
+    },
+    {
+      "id": "C2",
+      "title": "Read once and handle repeated IDs",
+      "points": 15,
+      "category": "implementation",
+      "tasks": [
+        "T2"
+      ],
+      "evidence": "Lazy single-pass input; validate before duplicate checking; counts and error classes are correct."
+    },
+    {
+      "id": "C3",
+      "title": "Update windows and return results",
+      "points": 20,
+      "category": "implementation",
+      "tasks": [
+        "T3"
+      ],
+      "evidence": "Correct prior-window rule, fixed-work updates, Decimal arithmetic, separate account state, and exact output schemas."
+    },
+    {
+      "id": "C4",
+      "title": "Measure time and memory",
+      "points": 10,
+      "category": "reasoning",
+      "tasks": [
+        "T4"
+      ],
+      "evidence": "Repeat multi-size experiments; show medians, chart, environment, timing scope, and honest memory measurement."
+    },
+    {
+      "id": "C5",
+      "title": "Explain choices, copying, and limits",
+      "points": 20,
+      "category": "reasoning",
+      "tasks": [
+        "T5"
+      ],
+      "evidence": "Explain findings, copy example, early events, changing baseline, ordering, total memory, and retention trade-offs."
+    },
+    {
+      "id": "C6",
+      "title": "Run and explain the work",
+      "points": 20,
+      "category": "instructor",
+      "tasks": [
+        "T6"
+      ],
+      "evidence": "10 points for reproducible files, outputs, and recorded version; 10 for the oral explanation."
+    }
+  ],
+  "scoring_note": "Tests provide evidence; do not assign points by counting tests. Instructor confirms final grades.",
+  "language_note": "Use simple English. Assess correct meaning and evidence; do not penalize minor grammar errors when meaning is clear."
+}

@@ -1,0 +1,20 @@
+{"tx_id": "T1", "account": "A1", "category": "food", "amount": "10.00", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "T2", "account": "A1", "category": "food", "amount": "11.00", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "B1", "account": "A2", "category": "travel", "amount": "0.10", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "T3", "account": "A1", "category": "travel", "amount": "12.00", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "T4", "account": "A1", "category": "electronics", "amount": "22.00", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "T4", "account": "A1", "category": "electronics", "amount": "999.00", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "T5", "account": "A1", "category": "food", "amount": "0.00", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "T5", "account": "A1", "category": "food", "amount": "13.00", "occurred_at": "2026-09-01T09:00:00Z", "currency": "UZS"}
+{"tx_id": "B2", "account": "A2", "category": "food", "amount": "0.20", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "B3", "account": "A2", "category": "food", "amount": "0.30", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "B4", "account": "A2", "category": "travel", "amount": "0.40", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "N1", "account": "A3", "category": "food", "amount": true, "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "N2", "account": "A3", "category": "food", "amount": "NaN", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "N3", "account": "A3", "category": "food", "amount": "5.00", "occurred_at": "2026-09-01T10:00:00", "currency": "UZS"}
+{"tx_id": "N4", "account": "A3", "category": "food", "amount": "5.001", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "N5", "account": "A3", "category": "food", "amount": "5.00", "occurred_at": "2026-09-01T10:00:00Z", "currency": "EUR"}
+{"tx_id": "N6", "account": "A3", "category": "food", "amount": "5.00", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS", "extra": "drift"}
+{"broken":
+{"tx_id": "T6", "account": "A1", "category": "electronics", "amount": "100.00", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
+{"tx_id": "B5", "account": "A2", "category": "travel", "amount": "0.10", "occurred_at": "2026-09-01T10:00:00Z", "currency": "UZS"}
