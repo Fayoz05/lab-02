@@ -1,0 +1,28 @@
+[
+  {
+    "account": "A1",
+    "count": 6,
+    "total": "168.00",
+    "mean": "28.00",
+    "dominant_category": "food",
+    "window_values": [
+      "22.00",
+      "13.00",
+      "100.00"
+    ],
+    "window_mean": "45.00"
+  },
+  {
+    "account": "A2",
+    "count": 5,
+    "total": "1.10",
+    "mean": "0.22",
+    "dominant_category": "travel",
+    "window_values": [
+      "0.30",
+      "0.40",
+      "0.10"
+    ],
+    "window_mean": "0.2666666666666666666666666667"
+  }
+]

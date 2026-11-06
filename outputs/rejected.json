@@ -1,0 +1,34 @@
+[
+  {
+    "line": 7,
+    "reason": "invalid_event"
+  },
+  {
+    "line": 12,
+    "reason": "invalid_event"
+  },
+  {
+    "line": 13,
+    "reason": "invalid_event"
+  },
+  {
+    "line": 14,
+    "reason": "invalid_event"
+  },
+  {
+    "line": 15,
+    "reason": "invalid_event"
+  },
+  {
+    "line": 16,
+    "reason": "invalid_event"
+  },
+  {
+    "line": 17,
+    "reason": "invalid_event"
+  },
+  {
+    "line": 18,
+    "reason": "invalid_json"
+  }
+]

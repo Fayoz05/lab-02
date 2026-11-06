@@ -1,0 +1,3 @@
+method,lines,peak_memory_bytes,peak_memory_kb
+Lazy,20,141293,137.9814453125
+Eager,20,144336,140.953125

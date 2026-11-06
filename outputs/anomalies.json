@@ -1,0 +1,26 @@
+[
+  {
+    "line": 5,
+    "tx_id": "T4",
+    "account": "A1",
+    "amount": "22.00",
+    "prior_mean": "11.00",
+    "ratio": "2"
+  },
+  {
+    "line": 11,
+    "tx_id": "B4",
+    "account": "A2",
+    "amount": "0.40",
+    "prior_mean": "0.20",
+    "ratio": "2"
+  },
+  {
+    "line": 19,
+    "tx_id": "T6",
+    "account": "A1",
+    "amount": "100.00",
+    "prior_mean": "15.66666666666666666666666667",
+    "ratio": "6.382978723404255319148936169"
+  }
+]
